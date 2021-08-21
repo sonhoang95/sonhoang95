@@ -1,7 +1,7 @@
 ### Hi there, I'm Son Nguyen 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=web_smasher)
+[![Twitter Follow](https://img.shields.io/twitter/follow/web_smasher?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=web_smasher)
 
 ## I'm an for Web Developer with an Art and Design background but is currently working in Sales. In other words, I went to art school to do sales/business and returned a Programmer...Opps!
 
