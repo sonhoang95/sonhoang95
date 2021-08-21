@@ -13,8 +13,10 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="web_smasher | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Son Nguyen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="Son Nguyen | Twitter" width="22px" src="https://raw.githubusercontent.com/web_smasher/web_smasher/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/sonhoang95/">
+  <img align="left" alt="Son's LinkedIN" width="22px" src="https://raw.githubusercontent.com/sonhoang95/sonhoang95/master/assets/linkedin.svg" />
+</a>
 
 <br />
 
@@ -44,4 +46,4 @@
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/web_smasher
-[linkedin]: https://linkedin.com/in/SonNguyen
+[linkedin]: https://linkedin.com/in/sonhoang95
