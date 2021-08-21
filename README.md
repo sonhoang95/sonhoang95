@@ -36,7 +36,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-(https://github-readme-stats.vercel.app/api?username=sonhoang95&show_icons=true&theme=dracula&hide=stars,issues)
+[![Son's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhoang95)](https://github.com/sonhoang95/github-readme-stats)
+
 
 </details>
 
