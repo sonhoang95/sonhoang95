@@ -44,4 +44,4 @@
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/web_smasher
-[linkedin]: https://linkedin.com/in/sonhoang95
+[linkedin]: https://linkedin.com/in/son-nguyen-6a0b4b157/
