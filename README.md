@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/web_smasher?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=web_smasher)
 
-## I'm a Front-end Web Developer with an Art and Design background but is currently working in Sales. In other words, I went to art school to do sales/business and returned a Programmer...Opps!
+## I'm a Front-end Web Developer with an Art and Design background. In other words, I went to art school and returned a Programmer...Opps!
 
 - 🌱 I’m new to programming and is currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and learn from them
