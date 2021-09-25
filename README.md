@@ -44,10 +44,3 @@
   
 ![Son Nguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonhoang95&show_icons=true&theme=radical)
 
-
-
-</details>
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/web_smasher
-[linkedin]: https://linkedin.com/in/son-nguyen-6a0b4b157/
