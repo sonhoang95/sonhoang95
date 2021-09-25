@@ -5,8 +5,8 @@
 
 ## I'm a Front-end Web Developer with an Art and Design background. In other words, I went to art school and returned a Programmer...Opps!
 
-- 🌱 I’m new to programming and is currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers and learn from them
+- 🌱 I’m new to programming and is currently being a sponge obsorbing everything I can.
+- 👯 I’m looking to collaborate with other developers to sharpen and to learn new skills.
 - 🥅 2021 Goals: Consolidating programming knowledges as well as building projects and getting ready for my first programming jobs!
 - ⚡ Fun fact: I love health and fitness and I did once start my own health and fitness clothing line.
 
