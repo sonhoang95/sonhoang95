@@ -1,6 +1,6 @@
 # Hi there, I'm Son Nguyen 👋
 
-[![Website](https://img.shields.io/website?label=SonNguyen.com&style=for-the-badge&url=https://thesonnguyen.com/)](https://thesonnguyen.com/)
+[![Website](https://img.shields.io/website?label=thesonnguyen.com.com&style=for-the-badge&url=https://thesonnguyen.com/)](https://thesonnguyen.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/web_smasher?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=web_smasher)
 
 ## I'm a Front-end Web Developer with an Art and Design background. In other words, I went to art school and returned a Programmer...Opps!
